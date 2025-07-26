@@ -76,7 +76,7 @@
         <button type="submit">تسجيل</button>
     </form>
 
-    <p>عندك حساب؟ <a href="/login">سجّل الدخول</a></p>
+    <p>عندك حساب؟ <a href="/index">سجّل الدخول</a></p>
 
 </body>
 </html>
